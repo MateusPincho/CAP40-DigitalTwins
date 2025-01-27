@@ -1,0 +1,12 @@
+numpy>=1.17.4
+spatialmath-python>=1.1.5
+spatialgeometry>=1.0.0
+pgraph-python
+scipy
+matplotlib
+ansitable
+swift-sim>=1.0.0
+rtb-data
+progress
+typing_extensions
+roboticstoolbox-python
